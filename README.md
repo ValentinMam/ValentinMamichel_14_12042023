@@ -95,6 +95,11 @@ C'est tout ! Une fois que l'application HRnet en React fonctionne, tu peux publi
 ### Lancement (terminal VSCode)
 
 ```
+git clone https://github.com/ValentinMam/ValentinMamichel_14_12042023.git
+```
+
+
+```
 cd OC-P14-HRNet-React
 ```
 
