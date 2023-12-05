@@ -89,9 +89,22 @@ C'est tout ! Une fois que l'application HRnet en React fonctionne, tu peux publi
 
 - [ValentinMam](https://github.com/ValentinMam/)
 
-## Architecture
 
-Soon to be added
+
+
+### Lancement (terminal VSCode)
+
+```
+cd OC-P14-HRNet-React
+```
+
+```
+npm install
+```
+
+```
+npm run start
+```
 
 
 
