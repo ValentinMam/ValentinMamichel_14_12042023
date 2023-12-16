@@ -12,9 +12,9 @@ npm install
 npm run start
 ```
 
-# Deployed project
+# Deployed projects
 
-React version :
+React version : https://valentin-mamichel-14-12042023.vercel.app/
 
 jQuery version (old) : https://j-query-h-rnet.vercel.app/
 
